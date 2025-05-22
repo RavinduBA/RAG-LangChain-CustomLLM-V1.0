@@ -1,4 +1,11 @@
+
+venv/
 .env
+__pycache__/
+
+*.pyc
 chroma_*
 chroma
 .DS_Store
+
+

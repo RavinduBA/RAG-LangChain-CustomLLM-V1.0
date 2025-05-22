@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 import openai
 import os
 
+
 # Load environment variables. Assumes that project contains .env file with API keys
 load_dotenv()
 #---- Set OpenAI API key 

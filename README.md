@@ -1,4 +1,16 @@
-# Langchain RAG Tutorial
+# Langchain RAG Custom LLM
+
+## Setup Instructions
+
+1. Clone the repository
+2. Create and activate a virtual environment:
+   - `python3 -m venv venv`
+   - `source venv/bin/activate` (Linux/Mac)
+   - `venv\Scripts\activate` (Windows)
+3. Install dependencies:
+   - `pip install -r requirements.txt`
+
+
 
 ## Install dependencies
 
@@ -45,3 +57,6 @@ python query_data.py "How does Alice meet the Mad Hatter?"
 > You'll also need to set up an OpenAI account (and set the OpenAI key in your environment variable) for this to work.
 
 Here is a step-by-step tutorial video: [RAG+Langchain Python Project: Easy AI/Chat For Your Docs](https://www.youtube.com/watch?v=tcqEUSNCn8I&ab_channel=pixegami).
+
+
+
