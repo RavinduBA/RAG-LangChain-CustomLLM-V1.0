@@ -55,8 +55,8 @@ python query_data.py "How does Alice meet the Mad Hatter?"
 ```
 
 > You'll also need to set up an OpenAI account (and set the OpenAI key in your environment variable) for this to work.
+  Since OpenAI API is bit expensive in here for vector embeddings I had used HuggingFaceEmbeddings . (If need to switch back to OpenAIAPI just uncomment the relevant sections)
 
-Here is a step-by-step tutorial video: [RAG+Langchain Python Project: Easy AI/Chat For Your Docs](https://www.youtube.com/watch?v=tcqEUSNCn8I&ab_channel=pixegami).
 
 
 
